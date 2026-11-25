@@ -1,0 +1,14 @@
+Feature,Importance
+numeric__ap_hi,0.7117867309783272
+numeric__age_years,0.13647419905316566
+categorical__cholesterol,0.0739973638141561
+numeric__BMI,0.027826050594591905
+numeric__weight,0.013247695288664542
+categorical__gluc,0.008124627461720043
+categorical__active,0.008037056294377821
+numeric__height,0.008019721212371265
+numeric__ap_lo,0.007706241202568385
+numeric__PulsePressure,0.0019477547985944255
+nominal__gender_2.0,0.0016992642072709103
+categorical__smoke,0.0011332950941916496
+categorical__alco,0.0

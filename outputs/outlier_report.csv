@@ -1,0 +1,6 @@
+Feature,Lower Bound,Upper Bound,Potential Outliers
+age_years,33.288501026694036,73.43908281998631,4
+height,142.5,186.5,479
+weight,39.5,107.5,1737
+ap_hi,90.0,170.0,1011
+ap_lo,65.0,105.0,3508
